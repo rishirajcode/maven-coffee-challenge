@@ -9,7 +9,7 @@ Product offering: What types of coffee beans and drinks should we offer?<br>
 Pricing strategy: How can we align prices with customer value perception?<br>
 <br>
 Analysis and Reports
-Target Audience
+Target Audience<br>
 ![image](https://github.com/user-attachments/assets/822ef113-3ac7-4c7c-8b7e-6e2ae310764a)
 
 The greatest age category for the target audience study is 25–34 years old, followed by 34–44 years old. Based on these insights, the coffee shop should focus on the following recommendations for its target audience:
