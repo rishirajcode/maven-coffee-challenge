@@ -1,4 +1,4 @@
-# maven-coffee-challenge
+# Maven-coffee-challenge
 Challenge Objective<br>
 For the Maven Coffee Challenge, you'll play the role of an Analytics Consultant hired by a group of investors looking to break into the US coffee market. They would like to leverage insights from "The Great American Coffee Taste Test", but lack the analytical skills to do so. That's where you come in!
 
