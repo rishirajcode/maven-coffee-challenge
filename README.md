@@ -1,4 +1,6 @@
 # Maven-coffee-challenge
+<iframe title="coffee_maven" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2Y0MjM2MDItYTQzNS00MzJkLTgzNDItN2YzNGY1NGE3NzkyIiwidCI6IjU4YWYyNDZhLWVlNzYtNGYxYS05YzBmLWU0ZmY1Y2JjYTU1ZiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 <b>Challenge Objective</b><br>
 For the Maven Coffee Challenge, you'll play the role of an Analytics Consultant hired by a group of investors looking to break into the US coffee market. They would like to leverage insights from "The Great American Coffee Taste Test", but lack the analytical skills to do so. That's where you come in!
 
