@@ -5,7 +5,8 @@
 <p>https://app.powerbi.com/view?r=eyJrIjoiM2Y0MjM2MDItYTQzNS00MzJkLTgzNDItN2YzNGY1NGE3NzkyIiwidCI6IjU4YWYyNDZhLWVlNzYtNGYxYS05YzBmLWU0ZmY1Y2JjYTU1ZiJ9</p>
 <br>
 <br>
-# Challenge Objective</b>
+# Challenge Objective
+
 For the Maven Coffee Challenge, you'll play the role of an Analytics Consultant hired by a group of investors looking to break into the US coffee market. They would like to leverage insights from "The Great American Coffee Taste Test", but lack the analytical skills to do so. That's where you come in!
 
 You've been asked to share an explanatory report providing a data-driven strategy for opening their first coffee shop. The investors expressed interest in the following areas, but are open to any additional insights and recommendations you can provide:
