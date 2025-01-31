@@ -12,7 +12,7 @@ You've been asked to share an explanatory report providing a data-driven strateg
 <br>
 Target audience: What type of customer should we target, and what are their preferences? <br>
 Product offering: What types of coffee beans and drinks should we offer?<br>
-Pricing strategy: How can we align prices with customer value perception?<br>
+Pricing strategy: How can we align prices with customer value perception? <br>
 <br>
 Analysis and Reports
 Target Audience<br>
